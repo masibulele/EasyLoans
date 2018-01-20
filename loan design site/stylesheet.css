@@ -1,0 +1,169 @@
+/**main style sheet**/
+*{
+	margin: 0;
+	padding:0;
+	
+	
+}
+
+
+//**{	border: 1px solid  rgba(248,80,50,1)*//
+}
+html{overflow-y: scroll; }
+.nevigation li{
+	width:150px;
+	display: inline-block;
+	position:relative;
+	margin: 0;
+	text-align:center;
+	border-radius: 4px;
+	background-color: rgb(255, 252, 252);
+	
+
+	
+	
+}
+/**li{
+	background-color:red;
+}**/
+
+a{
+	border-style: none;
+	text-decoration:none;
+	background-color:rgb(255, 252, 252);
+	
+}
+
+a:hover{
+	color: green;
+}
+
+body
+{ font-family: 'trebuchet ms', arial, sans-serif;
+  background: #F5F5EE;
+  color: #555;}
+  
+ h1
+{ font: normal 170% 'century gothic', arial;
+  margin: 0 0 15px 0;
+  padding: 15px 0 5px 0;
+  color: rgb(255, 252, 252);}
+  
+  span{
+	  color:rgb(4, 247, 33);
+	  border-style:none;
+  }
+  
+  header{
+	  background-color:rgb(17, 17, 17);
+  }
+  
+  .first{
+	  height:200px;
+	  width:100%;
+	 background: rgba(248,80,50,1);
+	  background-position: cover;
+	  color:rgb(255, 252, 252);
+	  padding-top: 30px;
+	  
+	  
+  }
+  
+  h2{
+	  display:static;
+  }
+  
+  #intro{
+	   display: inline-block;
+	   float
+	  
+  }
+  
+  img{
+	  width:200px;
+	  height: 160px;
+	  position: relative;
+	  float: right;
+	  Margin-top:0px;
+	  Margin-right:150px;
+	  opacity: 0.7;
+  }
+  
+  .sidebar
+{ float: right;
+  width: 300px;
+  padding: 0;
+  margin: 0 0 16px 0;}
+  
+  
+  #content
+{ text-align: left;
+  width: 620px;
+  padding: 0 0 0 5px;
+  float: left;}
+  
+  html{
+	  overflow:scroll;
+  }
+  
+  footer{
+	  Position: absolute;
+	  top:900px;
+	  width: 100%;
+	  text-align: center;
+	  background-color: rgb(255, 252, 252);
+	  border-radius: 4px;
+	  
+  }
+  
+  input{
+	  height:30px;
+	  width:600px;
+	  border-radius: 5px;
+  }
+  
+  #content{
+	  margin-left:100px;
+  }
+  
+  .contact_info{
+	  height:200px;
+	  width: 200px;
+	  margin-right:200px;
+	  border: 1px solid  rgba(248,80,50,1);
+	  border-radius: 5px;
+	  margin-top: 20px;
+  }
+  
+  #button{
+	  height:30px;
+	  width: 80px;
+	  margin-top: 20px;
+	  text-align:center;
+	  position:relative;
+	  margin-left: auto;
+  }
+ 
+  
+.benefits {
+	position:relative;
+	margin-left:auto;
+	float: auto;
+	display:inline;
+	list-style-type:none;
+	margin-bottom: 10px;
+	
+	
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
